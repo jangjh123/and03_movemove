@@ -17,7 +17,7 @@
   >
 </p>
 <p align="center">
-  <a href="https:/github.com/boostcampwm2023/and03_movemove/wiki/">팀 위키</a>
+  <a href="https://github.com/boostcampwm2023/and03_movemove/wiki/">팀 위키</a>
 </p>
 
 ### 앱 <뭅뭅>은 댄스 영상을 숏폼 비디오 형태로 시청하고 업로드할 수 있는 플랫폼입니다.
